@@ -1,6 +1,6 @@
 ---
 
-# 🌍 Global Terrorism Data Visualization Dashboard
+# 🌍 Global Terrorism Dashboard
 
 ![Dashboard Screenshot](global%20terrorist.png)
 
