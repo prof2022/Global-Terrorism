@@ -2,7 +2,8 @@
 
 # 🌍 Global Terrorism Data Visualization Dashboard
 
-!(global terrorist.png)
+![Dashboard Screenshot](global%20terrorist.png)
+
 
 ## 📖 Overview
 
@@ -67,19 +68,7 @@ The **Global Terrorism Data Visualization Dashboard** is an interactive tool des
 
 ---
 
-## 📸 Example Analysis (Snapshot Breakdown)
 
-![Pakistan Dashboard Snapshot](global-terrorism-pakistan.png)
-
-This snapshot highlights:
-1. **Heatmap**: Concentrated zones of terrorist activities in South Asia, focusing on Pakistan.
-2. **Bar Chart**: Trends in attacks and fatalities between 2010–2017, with peaks in 2013 and 2014.
-3. **Pie Chart**: A summary of casualties during the same period:
-   - **Total Attacks**: 30,874
-   - **Total Deaths**: 15,244
-   - **Total Wounded**: 24,866
-
----
 
 ## 🌟 Impact of the Project
 
