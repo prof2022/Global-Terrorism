@@ -2,7 +2,7 @@
 
 # 🌍 Global Terrorism Data Visualization Dashboard
 
-![Dashboard Screenshot](global terrorist.png)
+!(global terrorist.png)
 
 ## 📖 Overview
 
